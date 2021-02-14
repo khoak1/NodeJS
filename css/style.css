@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Muli:wght@200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border: 0;
+  -webkit-tap-highlight-color: transparent;
+  text-decoration: none;
+  color: inherit;
+  box-sizing: border-box; }
+  *:focus {
+    outline: none; 
+  }
+  * input::-webkit-outer-spin-button,
+  * input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0; }
+
+  ::selection {
+    background-color: #7681A4;
+    color: #fff;
+  }
+
+/*# sourceMappingURL=style.css.map */
